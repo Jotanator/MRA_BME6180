@@ -1,4 +1,4 @@
-## Update 11/15/2023
+## Update 12/05/2023
 
 To run all you need is 2 folder:
     - an input folder with all the MRA images,
